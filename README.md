@@ -1,6 +1,6 @@
 # sample_app
 
-#起動
+# ローカルサーバーの立ち上げ
 ```python
 python3 manage.py runserver
 ```
